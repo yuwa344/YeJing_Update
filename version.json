@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.4",
-  "notes": "v1.4.4 登录与健康数据修复。\n- 三方登录：SDK 不可用/未配置时自动回退本地账号，保证一定能登录\n- 健康数据：检测 Health Connect 组件，缺失时在「我的」页提供一键安装\n- 华为机型说明：需在华为运动健康中开启同步\n- 数据全程保留",
+  "versionCode": 12,
+  "versionName": "1.4.5",
+  "notes": "v1.4.5 手机号/邮箱真实验证码登录。\n- 接入后端验证码接口（ yejing_backend 参考实现，邮箱 SMTP 即可启用）\n- 未部署后端时自动走演示流程，不影响使用\n- 数据全程保留",
   "apkParts": [
-    "yejing-1.4.4.apk.000",
-    "yejing-1.4.4.apk.001"
+    "yejing-1.4.5.apk.000",
+    "yejing-1.4.5.apk.001"
   ],
-  "sha256": "59cd2e696d731e312b6a9e0b35c445783a5cb8c1c3e18e6366d7b99992c369bd"
+  "sha256": "8469a21eb7f5f1b1376061d8debd14191367fe10c4a04a03dd74f08ff037d9a8"
 }
