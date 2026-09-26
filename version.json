@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0",
-  "notes": "v1.4.0 真实三方登录接入。\n- 接入微信 / Google / Apple 官方 SDK（真实授权流程）\n- 凭据校验接口预留，后端部署后即为完整账号体系\n- 开发者凭据配置前自动回退演示账号，不影响使用\n- 数据全程保留",
+  "versionCode": 8,
+  "versionName": "1.4.1",
+  "notes": "v1.4.1 模型持久化修复 + 移除 Ollama。\n- 关键修复：重启后自动识别已下载模型，不再要求重新下载\n- 加载完成后自动清理重复副本，节省约 2.4GB 存储\n- 移除 Ollama 备选方案，AI 统一为「运动专属 AI」（端侧离线）\n- 拍食物识别的「没有 AI」提示已修复（模型装好即生效）\n- 数据全程保留",
   "apkParts": [
-    "yejing-1.4.0.apk.000",
-    "yejing-1.4.0.apk.001"
+    "yejing-1.4.1.apk.000",
+    "yejing-1.4.1.apk.001"
   ],
-  "sha256": "c555933f8ea57f7048c1dab3bb3d88ebc1c779d7d3be012458bed7dfed0feaf5"
+  "sha256": "aa163321885bb354b926ce8f07326d802dff30a1c938157818be8d5a932480aa"
 }
