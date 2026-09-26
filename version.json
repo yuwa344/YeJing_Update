@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.5",
-  "notes": "v1.4.5 手机号/邮箱真实验证码登录。\n- 接入后端验证码接口（ yejing_backend 参考实现，邮箱 SMTP 即可启用）\n- 未部署后端时自动走演示流程，不影响使用\n- 数据全程保留",
+  "versionCode": 13,
+  "versionName": "1.4.6",
+  "notes": "v1.4.6 界面焕新。\n- 全新品牌应用图标（绿渐变 + 闪电，自适应圆角）\n- 底部导航栏升级为 Apple Liquid Glass 风格（毛玻璃 + 高光折射边 + 悬浮投影）\n- 数据全程保留",
   "apkParts": [
-    "yejing-1.4.5.apk.000",
-    "yejing-1.4.5.apk.001"
+    "yejing-1.4.6.apk.000",
+    "yejing-1.4.6.apk.001"
   ],
-  "sha256": "8469a21eb7f5f1b1376061d8debd14191367fe10c4a04a03dd74f08ff037d9a8"
+  "sha256": "4da2407603de97ac6d2252fb53c65b5c4008deda5ad96d0614fc56b15e917e53"
 }
