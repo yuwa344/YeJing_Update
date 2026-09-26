@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "notes": "v1.3.0 大版本更新。\n- 运动专属 AI：去除无关元素，模型设置移至「我的」\n- 训练页整合运动记录，点击星期几查看当天训练并可一键开始\n- 首页/训练运动开始按钮修复\n- AI 模型下载：断点续传 + 多镜像重试，更稳更快\n- 全套动效升级：Logo 光晕、页面转场、卡片错峰上浮\n- 数据与已下载模型全程保留",
+  "versionCode": 5,
+  "versionName": "1.3.1",
+  "notes": "v1.3.1 界面细节优化。\n- 登录页微信 / Apple / Google 更换为真实品牌图标\n- 其余功能与 v1.3.0 一致，数据全程保留",
   "apkParts": [
-    "yejing-1.3.0.apk.000",
-    "yejing-1.3.0.apk.001"
+    "yejing-1.3.1.apk.000",
+    "yejing-1.3.1.apk.001"
   ],
-  "sha256": "9c195b267eef48a9d23b4ecab9a0f8e0d4c09131e98bc81c4db801caa746487a"
+  "sha256": "0d26bb84ea4acd782bf0f73dcf413c2ddd9fe7217b43ac163617265fa40fc8c9"
 }
